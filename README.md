@@ -86,7 +86,7 @@
 <br>
 
 ## 🎒 Образование 
-[<img src="/tatiana_karnaukhova_certificate_139_hours_en.jpg" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/TataLev-QA/TataLevQA/main/tatiana_karnaukhova_certificate_139_hours_en.jpg)
+[<img src="/tatiana_karnaukhova_certificate_139_hours_en.jpg" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/TataLev-QA/TataLev-QA/main/tatiana_karnaukhova_certificate_139_hours_en.jpg)
 <!-- [<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png) --> 
 
 <br>

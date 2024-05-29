@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=TataLev-QA)
 <a href="https://github.com/anuraghazra/convoychat">
-  <img alt="Top Used Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TataLev-QA&layout=compact&langs_count=8&card_width=320" />
+  <img alt="Top Used Languages" height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TataLev-QA&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 

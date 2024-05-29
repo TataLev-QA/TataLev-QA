@@ -5,7 +5,7 @@
 ## 📊 Статистика 
 
 
-![](https://github-readme-stats.vercel.app/api?&theme=shadow_green&&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=TataLev-QA)
+![](https://github-readme-stats.vercel.app/api?&theme=shadow_green&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=TataLev-QA)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?&theme=shadow_green&layout=donut&langs_count=6&hide_progress=true&username=TataLev-QA)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 

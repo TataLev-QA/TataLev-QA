@@ -76,16 +76,17 @@
 
 <br>
 
-<!-- ## 🪴 Практика и стажировка --> 
-<!-- [<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_kvadra.png)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
+ ## 🪴 Практика и стажировка 
+ [<img src="/internship_1_en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/TataLev-QA/TataLev-QA/main/internship_1_en.png)
+[<img src="/internship_1_ru.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/TataLev-QA/TataLev-QA/main/internship_1_ru.png)
+<!--[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/stepik.png) --> 
 
 <br>
 
 ## 💼 Образование 
-[<img src="/tatiana_karnaukhova_certificate_139_hours_en.jpg" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/TataLev-QA/TataLev-QA/main/diploma%20eng.png)
+[<img src="/diploma_eng.png" width="280px" hspace="10px" alt="diploma_eng»">](https://raw.githubusercontent.com/TataLev-QA/TataLev-QA/main/diploma_eng.png)
+[<img src="/diploma_ru.png" width="280px" hspace="10px" alt="diploma_ru»">](https://raw.githubusercontent.com/TataLev-QA/TataLev-QA/main/diploma_ru.png)
 <!-- [<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png) --> 
 
 <br>
